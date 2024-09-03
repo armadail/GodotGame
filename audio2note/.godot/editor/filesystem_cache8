@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1725407895
+default_bus_layout.tres::AudioBusLayout::2180117417620321322::1724737820::0::1::::<><>::
+icon.png::CompressedTexture2D::5757941181140409188::1723583306::1723583327::1::::<><>::
+maldita.ogg::AudioStreamOggVorbis::8703014104550778221::1723583306::1723583327::1::::<><>::
+notebox.tscn::PackedScene::6220141847458458891::1724736371::0::1::::<><>::res://scripts/Area2D.gd
+noteremover.tscn::PackedScene::1978077226051685690::1724736371::0::1::::<><>::
+notespawner.tscn::PackedScene::5480850560060947633::1724740625::0::1::::<><>::res://scripts/notespawner.gd
+README.md::TextFile::-1::1723583306::0::1::::<><>::
+roadNotTaken.ogg::AudioStreamOggVorbis::2110605708893624651::1724556307::1724556307::1::::<><>::
+show_spectrum.tscn::PackedScene::3301853868771371498::1724740690::0::1::::<><>::res://scripts/show_spectrum.gd<>uid://5cnmrauer6pj::::res://roadNotTaken.ogg<>uid://3ggv4ha7g5j7::::res://noteremover.tscn<>uid://ckc72qaeug6u4::::res://notespawner.tscn
+::res://scripts/::1724740623
+Area2D.gd::GDScript::-1::1724736150::0::1::::<>Area2D<>::
+notespawner.gd::GDScript::-1::1724740623::0::1::::<>CharacterBody2D<>::
+show_spectrum.gd::GDScript::-1::1724738758::0::1::::<>Node2D<>::
